@@ -1,3 +1,4 @@
-struct SwiftDateAliases {
-    var text = "Hello, World!"
-}
+import SwiftDate
+
+
+public typealias SDRegion = Region
